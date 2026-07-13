@@ -164,6 +164,5 @@ The interactive dashboard includes:
 
 This project demonstrates practical Data Analytics skills by combining SQL and Power BI to transform raw ride booking data into actionable business insights. It showcases the ability to clean, analyze, visualize, and communicate data effectively through interactive dashboards and KPI reporting.
 
----
 
 ⭐ If you found this project useful, feel free to star the repository.
